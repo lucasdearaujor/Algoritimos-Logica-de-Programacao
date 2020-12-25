@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+
+<script>
+	function pulaLinha() {
+		document.write("<br>");
+	}
+
+	function mostra(frase) {
+		document.write(frase);
+		pulaLinha();
+	}
+	
+	var numero = Math.round(Math.random() * 100);
+	console.log(numero);
+	var numeroChute = parseInt(prompt("Digite um número:"));
+	
+	if(numero == numeroChute){
+		mostra("Você acertou! "+numero);
+	}else (numero != numeroChute){
+		mostra("Você errou! "+numero);
+	}
+	
+</script>
