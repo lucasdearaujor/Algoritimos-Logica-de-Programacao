@@ -5,7 +5,7 @@
 
 <script>
 
-	var segredo = 5;
+	var segredo = sorteia(100);
 	var input = document.querySelector("input");
 	var button = document.querySelector("button");
 	button.onclick = verifica;
@@ -18,6 +18,10 @@
 			input.value = "";
 			input.focus();
 		}
+	}
+	
+	function sorteia(n){
+	    return Math.round(Math.random() * n);
 	}
 	
 </script>
