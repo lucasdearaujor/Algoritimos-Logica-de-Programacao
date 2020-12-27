@@ -1,3 +1,4 @@
+package capitulo3estrutursequencial;
 import java.util.Scanner;
 
 public class Cap03Exerc13_MostrarTabuadaDoNumeroDigitado {

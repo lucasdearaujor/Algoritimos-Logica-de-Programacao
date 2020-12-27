@@ -1,6 +1,7 @@
+package capitulo3estrutursequencial;
 import java.util.Scanner;
 
-public class Cap03Exerc02_MultiplicacaoTresNumeros {
+public class Cap03Exerc01_SubtracaoNumeros {
 
 	public static void main(String[] args) {
 

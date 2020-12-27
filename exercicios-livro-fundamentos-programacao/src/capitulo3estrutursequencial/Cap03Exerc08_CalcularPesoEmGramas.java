@@ -1,6 +1,7 @@
+package capitulo3estrutursequencial;
 import java.util.Scanner;
 
-public class Cap03Exerc07_CalcularNovoPeso {
+public class Cap03Exerc08_CalcularPesoEmGramas {
 
 	public static void main(String[] args) {
 
@@ -8,8 +9,8 @@ public class Cap03Exerc07_CalcularNovoPeso {
 		Double peso = 0.0;
 		System.out.println("Informe o peso: ");
 		peso = teclado.nextDouble();
-		System.out.println("Peso se engordar 15% " + (peso + peso * 0.15));
-		System.out.println("Peso se emagrecer 20% " + (peso - peso * 0.20));
+
+		System.out.println("Peso em gramas " + (peso * 1000));
 
 	}
 }
