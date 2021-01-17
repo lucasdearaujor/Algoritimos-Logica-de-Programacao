@@ -26,8 +26,8 @@ public class Cap06_Exercicio7_MostrarQtdNegativosESomaPositivos {
 			}
 		}
 		
-		System.out.println("Qtd de numeros Negativos: "+qtdNegativos);
-		System.out.println("Soma dos números positivos: "+somaPositivos);
+		System.out.println("Qtd de numeros Negativos: " + qtdNegativos);
+		System.out.println("Soma dos números positivos: " + somaPositivos);
 		
 	}
 }
