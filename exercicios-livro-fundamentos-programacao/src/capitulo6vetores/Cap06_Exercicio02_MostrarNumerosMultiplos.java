@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Cap06_Exercicio2_MostrarNumerosMultiplos {
+public class Cap06_Exercicio02_MostrarNumerosMultiplos {
 
 	public static void main(String[] args) {
 		
@@ -32,10 +32,7 @@ public class Cap06_Exercicio2_MostrarNumerosMultiplos {
 		
 		System.out.println("*** Multiplos de 2 e 3 ***");
 		for(int i = 0; i < 7; i++) {
-			if(numeros[i]%2 == 0) {
-				System.out.println(numeros[i]);
-			}
-			if(numeros[i]%3 == 0) {
+			if(numeros[i]%2 == 0 || numeros[i]%3 == 0) {
 				System.out.println(numeros[i]);
 			}
 		}

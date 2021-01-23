@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Cap06_DezNumerosOrdemDecrescente {
+public class Cap06_Exercicio_DezNumerosOrdemDecrescente {
 
 	public static void main(String[] args) {
 		

@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Cap06_Exercicio4_MostrarElementoIgualATrinta {
+public class Cap06_Exercicio04_MostrarElementoIgualATrinta {
 
 	public static void main(String[] args) {
 		

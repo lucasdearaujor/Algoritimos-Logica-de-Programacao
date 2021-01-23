@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;import capitulo5estruturaderepeticao.Cap05Exerc12_MostrarQtdNumerosPrimos;
 
-public class Cap06_Exercicio8_NomesEMediasAlunos {
+public class Cap06_Exercicio08_NomesEMediasAlunos {
 
 	public static void main(String[] args) {
 		

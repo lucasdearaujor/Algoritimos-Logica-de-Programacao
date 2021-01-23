@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Cap06_DezNumerosOrdemCrescente {
+public class Cap06_Exercicio01 {
 
 	public static void main(String[] args) {
 		
@@ -20,7 +20,7 @@ public class Cap06_DezNumerosOrdemCrescente {
 		
 		for(int i = 0; i < 10; i++) {
 			for(int j = 0; j < 9; j++) {
-				if(numero[j] > numero[j+1]) {
+				if(numero[j] < numero[j+1]) {
 					auxiliar = numero[j];
 					numero[j] = numero[j+1];
 					numero[j+1] = auxiliar;

@@ -3,7 +3,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class Cap06_Exercicio1_MostrarValoresVetor {
+public class Cap06_Exercicio01_MostrarValoresVetor {
 
 	public static void main(String[] args) {
 		
