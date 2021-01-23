@@ -1,7 +1,5 @@
 package capitulo6vetores;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Scanner;import capitulo5estruturaderepeticao.Cap05Exerc12_MostrarQtdNumerosPrimos;
+import java.util.Scanner;
 
 public class Cap06_Exercicio07_MostrarQtdNegativosESomaPositivos {
 

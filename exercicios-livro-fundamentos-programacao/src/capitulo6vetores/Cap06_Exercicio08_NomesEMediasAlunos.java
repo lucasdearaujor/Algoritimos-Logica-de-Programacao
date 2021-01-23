@@ -1,7 +1,5 @@
 package capitulo6vetores;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Scanner;import capitulo5estruturaderepeticao.Cap05Exerc12_MostrarQtdNumerosPrimos;
+import java.util.Scanner;
 
 public class Cap06_Exercicio08_NomesEMediasAlunos {
 
@@ -11,8 +9,6 @@ public class Cap06_Exercicio08_NomesEMediasAlunos {
 		Scanner t = new Scanner(System.in);
 		String[] nomes = new String[7];
 		Double[] medias = new Double[7];
-		String[] nomesNaoAprovados = new String[7];
-		Double[] mediasNomesNaoAprovados = new Double[7];
 		String nomeAlunoMaiorMedia = "";
 		Double maiorMedia = 0.0;
 		

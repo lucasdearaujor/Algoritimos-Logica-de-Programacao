@@ -1,11 +1,5 @@
 package capitulo6vetores;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-
-import capitulo5estruturaderepeticao.Cap05Exerc12_MostrarQtdNumerosPrimos;
 
 public class Cap06_Exercicio16_Produtos {
 

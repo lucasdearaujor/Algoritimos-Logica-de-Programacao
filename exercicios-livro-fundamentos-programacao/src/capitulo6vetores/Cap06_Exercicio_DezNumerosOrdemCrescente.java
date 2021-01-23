@@ -1,6 +1,4 @@
 package capitulo6vetores;
-import java.util.Calendar;
-import java.util.Date;
 import java.util.Scanner;
 
 public class Cap06_Exercicio_DezNumerosOrdemCrescente {

@@ -1,12 +1,9 @@
 package capitulo6vetores;
-import java.util.Calendar;
-import java.util.Date;
-import java.util.Scanner;import capitulo5estruturaderepeticao.Cap05Exerc12_MostrarQtdNumerosPrimos;
+import java.util.Scanner;
 
 public class Cap06_Exercicio11_VetorDeParesImpares {
 
 	public static void main(String[] args) {
-		
 		
 		Scanner t = new Scanner(System.in);
 		Integer numeros[] = new Integer[10];
